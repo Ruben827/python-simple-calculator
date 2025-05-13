@@ -7,7 +7,7 @@ Simple calculator application
 - Multiplication
 - Dividing
 
-## How to run in
+## How to run
 1. Make sure Python is already installed on your system.
 2. Run `kalkulator.py` from your terminal or editor.
 
